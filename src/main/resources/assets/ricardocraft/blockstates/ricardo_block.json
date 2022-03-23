@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ricardocraft:block/ricardo_block"
+    }
+  }
+}

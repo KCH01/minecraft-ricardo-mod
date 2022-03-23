@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dancindisc",
+    "name": "Music Disc",
+    "description": "Aaron Smith - Dancin Slowed Reverb",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:dancin"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

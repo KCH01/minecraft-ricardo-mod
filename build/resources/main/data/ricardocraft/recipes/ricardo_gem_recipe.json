@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 1,
+  "ingredient": {
+    "item": "ricardocraft:ricardo_block"
+  },
+  "result": {
+    "item": "ricardocraft:ricardo_gem"
+  }
+}

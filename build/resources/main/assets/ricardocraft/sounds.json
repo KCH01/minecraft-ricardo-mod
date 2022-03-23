@@ -1,0 +1,11 @@
+{
+  "dancin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ricardocraft:aaron_smith__dancin__krono_remix_slowed__reverb",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ricardocraft:blocks/ricardotexture",
+    "up": "ricardocraft:blocks/ricardotexture",
+    "north": "ricardocraft:blocks/ricardotexture",
+    "east": "ricardocraft:blocks/ricardotexture",
+    "south": "ricardocraft:blocks/ricardotexture",
+    "west": "ricardocraft:blocks/ricardotexture",
+    "particle": "ricardocraft:blocks/ricardotexture"
+  }
+}

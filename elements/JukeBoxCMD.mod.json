@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "command",
+  "definition": {
+    "commandName": "jukebox",
+    "permissionLevel": "No requirement",
+    "onCommandExecuted": {
+      "name": "GiveJukebox"
+    }
+  }
+}
